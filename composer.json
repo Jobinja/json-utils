@@ -1,0 +1,28 @@
+{
+  "name": "jobinja/app-json",
+  "description": "Jobinja json responses daily used utils",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Jobinja\\Utils\\JsonResponse\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^5.5.9 || ^7.0",
+    "illuminate/support": "5.1.* || 5.4.* || 5.5.*",
+    "illuminate/http": "5.1.* || 5.4.* || 5.5.*",
+    "illuminate/translation": "5.1.* || 5.4.* || 5.5.*",
+    "illuminate/validation": "5.1.* || 5.4.* || 5.5.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Morteza Parvini",
+      "email": "m.parvini@outlook.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
