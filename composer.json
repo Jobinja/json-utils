@@ -1,5 +1,5 @@
 {
-  "name": "jobinja/app-json",
+  "name": "morilog/json-utils",
   "description": "Jobinja json responses daily used utils",
   "type": "library",
   "autoload": {
