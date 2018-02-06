@@ -3,7 +3,7 @@ Jobinja json responses daily used utils
 
 ## Installation
 ```zsh
-composer require jobinja/json-utils
+composer require morilog/json-utils
 ```
 
 ## JRes
